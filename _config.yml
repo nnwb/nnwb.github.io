@@ -1,7 +1,7 @@
 # Site settings
 title: "nnwb"
 description: > 
-  <image src=https://nnwb.github.io/assets/profile_circle_120.jpg>
+  <image src="https://nnwb.github.io/assets/profile_circle_120.jpg">
   blog
 
 author: nnwb
