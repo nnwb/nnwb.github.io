@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 
 <p align="center">
   <img src="https://nnwb.github.io/assets/porsche.jpg">
