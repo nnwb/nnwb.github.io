@@ -2,8 +2,8 @@
 layout: post
 title: "A Full and Comprehensive Style Test"
 description: "Test post for style"
-date: 2016-08-15
-tags: test, style
+date: 2018-11-23
+tags: test, style, 날짜만바꿨다
 comments: true
 ---
 
