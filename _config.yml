@@ -1,7 +1,7 @@
 # Site settings
-title: "Paper Jekyll Theme"
+title: "nnwb"
 description: > 
-  nnwb
+  blog
 
 author: nnwb
 email: jupiterjaz@gmail.com
@@ -12,7 +12,7 @@ instagram_username: nav2wb
 baseurl: "/nnwb.github.io" # the subpath of your site, e.g. /blog
 url: "https://nnwb.github.io" # the base hostname & protocol for your site
 
-google_analytics_id: UA-1111111111-1
+google_analytics_id: 
 disqus_id: nnwb
 
 # Build settings
