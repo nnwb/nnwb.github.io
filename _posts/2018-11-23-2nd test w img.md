@@ -8,11 +8,8 @@ comments: true
 ---
 
 
-
-<p align="center">
   <img src="https://nnwb.github.io/assets/porsche.jpg">
-  <p align="center">
-</p>
+
 
 
 의도한대로 보이지 않음
