@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "테스트 포스팅"
+title: "1st Test Post"
 description: "디스커스땜에 곤란"
 date: 2018-11-23
 tags: 테스트, 태그되냐
 comments: true
-
 ---
 
 ## 왘크 왘크
