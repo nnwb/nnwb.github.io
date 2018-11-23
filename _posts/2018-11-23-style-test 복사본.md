@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Full and Comprehensive Style Test"
+title: "이름만바꿨다"
 description: "Test post for style"
 date: 2018-11-23
 tags: test, style, 날짜만바꿨다
