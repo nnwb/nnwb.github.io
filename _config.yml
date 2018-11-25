@@ -12,7 +12,7 @@ instagram_username:
 baseurl: "/nnwb.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
-google_analytics_id: 
+google_analytics_id: UA-38551457-2
 disqus_id: "nnwb"
 
 # Build settings
