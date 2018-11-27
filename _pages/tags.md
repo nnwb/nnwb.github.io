@@ -23,8 +23,8 @@ permalink: /tags/
     <article class="archive-item">
       <h4><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
-    </br>
-    </br> 
+    <br>
+    <br> 
     {% endfor %}
   </div>
 {% endfor %}
