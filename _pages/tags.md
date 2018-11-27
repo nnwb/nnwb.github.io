@@ -3,9 +3,8 @@ layout: content
 title: Tags
 permalink: /tags/
 ---
-<ul class="c-tags">
+<ul class="tag-cloud">
 {% for tag in site.tags %}
-  <li class="c-tags">{{ tag }}<li>
   <span style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
     <a href="#{{ tag | first | slugize }}">
       {{ tag | first }}
