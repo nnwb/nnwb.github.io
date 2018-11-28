@@ -27,5 +27,5 @@ permalink: /tags/
     </article>
     {% endfor %}
   </div>
-<!--{% endfor %} -->
-<!--</div>-->
+{% endfor %}
+    </div>
