@@ -10,6 +10,7 @@ permalink: /tags/
 {{ tag | first }}
     </a> &nbsp;&nbsp;
   </span>
+<li class="c-tag">{{ tag }}</li>
 {% endfor %}
 </ul>
 
