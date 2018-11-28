@@ -3,7 +3,7 @@ layout: post
 date: 2018-11-25
 title: Search Test
 description: 찾아보자
-tags: test
+tags: search
 comments: true
 ---
 이상한 단어를 써보자
