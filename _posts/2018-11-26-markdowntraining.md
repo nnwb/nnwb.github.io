@@ -2,7 +2,7 @@
 date: 2018-11-26
 title: 마크다운 문법 연습
 description: 외계어가 아닙니다
-tags: 마크다운
+tags: daily
 layout: post
 comments: true
 ---
