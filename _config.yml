@@ -1,7 +1,7 @@
 # Site settings
-title: "nnwb"
+title: "nnwb blog"
 description: > 
-  blog
+<!-- contents displayed in title page -->
 
 author: nnwb
 email: jupiterjaz@gmail.com
