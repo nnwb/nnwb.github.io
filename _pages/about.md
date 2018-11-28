@@ -5,10 +5,8 @@ permalink: /about/
 ---
 <img src="https://nnwb.github.io/assets/profile_circle_120.jpg">
 
-Hyunsoo Shin
-
-Weekend cyclist
-
+Hyunsoo Shin  
+Weekend cyclist  
 Seoul, Korea
 
 
