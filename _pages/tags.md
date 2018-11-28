@@ -21,9 +21,9 @@ permalink: /tags/
     <br>
     <h4 id="#{{ tag_name | slugize }}">{{ tag_name }}</h4>  
     <a name="{{ tag_name | slugize }}"></a>  
-    {% for post in site.tags[tag_name] %}  
-    <article class="archive-item">  
-        <h4><small><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a> {{ post.date | date: "%b %-d, %Y" }}</small></h4>
+      {% for post in site.tags[tag_name] %}  
+      <article class="archive-item">  
+          <h4><small><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a> {{ post.date | date: "%b %-d, %Y" }}</small></h4>
     </article>
     {% endfor %}
   </div>
