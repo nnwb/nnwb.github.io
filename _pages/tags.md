@@ -9,8 +9,8 @@ permalink: /tags/
 <a href="#{{ tag | first | slugize }}">
 {{ tag | first }}
     </a> &nbsp;&nbsp;
-  </span>
 <li class="c-tag">{{ tag }}</li>
+</span>
 {% endfor %}
 </ul>
 
