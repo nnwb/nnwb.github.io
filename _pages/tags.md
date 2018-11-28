@@ -19,7 +19,7 @@ permalink: /tags/
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <br>
-    <h3 id="#{{ tag_name | slugize }}">{{ tag_name }}</h3>
+    <h4 id="#{{ tag_name | slugize }}">{{ tag_name }}</h4>
     <a name="{{ tag_name | slugize }}"></a>
     {% for post in site.tags[tag_name] %}
     <article class="archive-item">
