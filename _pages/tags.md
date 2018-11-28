@@ -22,7 +22,7 @@ permalink: /tags/
     <a name="{{ tag_name | slugize }}"></a>
     {% for post in site.tags[tag_name] %}
     <article class="archive-item">
-      <h4><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a> <p>{{ post.date | date: "%b %-d, %Y" }}</p></h4>
+      <h4><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a> {{ post.date | date: "%b %-d, %Y" }}</h4>
     </article>
     {% endfor %}
   </div>
