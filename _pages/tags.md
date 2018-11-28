@@ -5,7 +5,7 @@ permalink: /tags/
 ---
 <ul class="c-tag">
 {% for tag in site.tags %}
-<span style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
+<span style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 0  }}%">
 <a href="#{{ tag | first | slugize }}">
 {{ tag | first }}
     </a> &nbsp;&nbsp;
