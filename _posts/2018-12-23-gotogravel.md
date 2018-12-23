@@ -2,7 +2,7 @@
 date: 2018-12-23
 title: QUOC PHAM Gran Tourer Shoes
 description: 
-tags: cycling
+tags: bicycle
 layout: post
 comments: true
 ---
