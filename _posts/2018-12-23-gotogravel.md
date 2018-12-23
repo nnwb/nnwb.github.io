@@ -16,6 +16,8 @@ All-rounder solution 이라구욧
 그 와중에 [ARGONAUT GR2](https://argonautcycles.com/gr2/)
 
 ![gr2_1](https://lh3.googleusercontent.com/zbzF8ErLp_W0nzisZZihEsvWqZPOthc27gSn4fBI3QeTiTQR4rFliVai5QZqcPDBTYS0tTz02SbKFbWkQBu2D5LfxL8-8aysjy4lG4iXb8sFzywH6MYcSELjzlsA4DqQs_Fw5k6_Tg=w2400)
+
+
 ![gr2_2](https://lh3.googleusercontent.com/mGIq2ZpmZ1EkAx-IRRx97Kvc1h7QrLy9Vw2ZQZMObA-cOCWNoOPbbHVdv6H9v5SC85mjm8uaccC5_E5EsOEyaWfHAS88g0N9vW40A0CbNdwzu6Uzl3nkLb5a6J7WOQUgFdA_eOOTOQ=w2400)
 
 개취에 따르면 Road 모델은 그럭저럭 이었는데, 이건 좀 멋있어 보인다.
