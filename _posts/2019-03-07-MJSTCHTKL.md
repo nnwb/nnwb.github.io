@@ -17,5 +17,7 @@ FILCO Majestouch Convertible TKL Silent Red 에 중국향을 끼얹어 보았다
 근데 하판까지 풀케이스를 만들지 않는 이유는 무엇인지...?
 ![rear](https://lh3.googleusercontent.com/LafGDqAEjQez2C5aanTkPH9_rqJ-RZQDTRfg47IGgqf8gp8DTBmK4CdrbN5z9LODYTevK-Oo76BzyHs7Ud5B4DXPMVwFHUUH7GtlUwxcMHbkmOszsqK5Idc_HUYrOzM6gmD9hpd1dQ=w2400)
 
-집에 있던 별렌치(torx bit) 너무 커서 당장 분해가 불가, 이마트 폐점 전에 겨우 구입해서 신났었으나 너무 작은 걸 샀던것으로 판명...결국 일자드라이버로 풀었다. **필코 키보드 분해는 별렌치 T10 규격이 필요하다** 
+집에 있던 별렌치(torx bit) 너무 커서 당장 분해가 불가, 이마트 폐점 전에 겨우 구입해서 신났었으나 너무 작은 걸 샀던것으로 판명...결국 일자드라이버로 풀었다. **필코 키보드 분해는 별렌치 T10 규격이 필요하다**  
+
+  
 ![torx](https://lh3.googleusercontent.com/v-dUuyflTTbeTxCYM0KratXwJutPxBjX6dWM0M-QFOSacop7d9kjpsn9OwaWrsl3AlQ2cBb-J-9dmY8OkcHQtbzALLVg7mjOSLn0-3fO9Fr-NS0HFScTRhEivEfVTJCu4EBfPD1VjQ=h800)
