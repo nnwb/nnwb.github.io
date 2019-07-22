@@ -2,7 +2,7 @@
 date: 2019-03-09
 title: Rapha Custom
 description: 빛을 보는 svg
-tags: cycling
+tags: bicycle
 layout: post
 comments: true
 ---
