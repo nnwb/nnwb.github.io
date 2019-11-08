@@ -6,6 +6,7 @@ tags: daily
 layout: post
 comments: true
 ---
+![app](https://lh3.googleusercontent.com/XsrJzZlNCYjWmRkeMAqYhiliVxfLE3c65m_1oSn-LcMxiIkfXkItON0oAXmtehg-OeoU3AsUDfFmMFRFrzDnWuGSjLJ6Dxcwx-8hBYIR4CecFT-ijS_IojrvmJJJGiZV2UXVq0f7xw=w700 "App")
 
 1. 10월 29일 에어팟 프로 출시 소식 접함
 2. 10월 30일 약간 고민하다가 미국 공홈에서 배대지로 주문
