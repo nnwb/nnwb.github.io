@@ -3,7 +3,7 @@ layout: content
 title: About
 permalink: /about/
 ---
-<img src="https://nnwb.github.io/assets/profile_circle_120.jpg">
+<img src="https://nnwb.github.io/assets/profile_circle_200.jpg">
 
 Hyunsoo Shin  
 Weekend cyclist  
