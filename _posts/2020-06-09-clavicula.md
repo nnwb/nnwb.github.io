@@ -17,7 +17,7 @@ comments: true
 <br>
 Extralite 의 옥타램프 52-36 과 함께 조립했다. 페달도 최근에 새로 나온 아주 약간 경량된 투어링용으로 교체. 단면 페달이라 무게를 버리고 불편함을 얻었음
 <br> <br> <br>
-<img src="https://n2wb.files.wordpress.com/2020/06/img_4102_original-2.jpg" class="size-full wp-image-330">
+<img src="https://n2wb.files.wordpress.com/2020/06/img_6993.jpg" class="size-full wp-image-332">
 <br>
 주의 받았던 카셋 마모로 인한 변속 트러블도 없고, 옥타램프의 저질 변속감도 적응하니 크게 문제될 건 없었다. 다만 이너링이 38t 에서 36t 로 작아져, 새로운 기어비 조합에 익숙해지는게 어려웠다. 게다가 내가 자주 사용하는 기어비에서는 앞드레일러 트리밍을 부지런히 신경써줘야 해서...
 <br> <br> <br>
